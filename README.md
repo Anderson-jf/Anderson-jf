@@ -32,4 +32,4 @@ Opero sob metodologias ágeis (**Scrum/Kanban**), prezando pela organização co
 ### 📫 Como me encontrar:
 
 - **E-mail Profissional:** aj0277578@gmail.com
-- **LinkedIn:** [jose-anderson](https://www.linkedin.com/in/jose-anderson-5447012a6/)
+- **LinkedIn:** [jose-anderson](https://www.linkedin.com/in/jos%C3%A9-anderson-5447012a6/)
