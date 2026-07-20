@@ -95,4 +95,4 @@ API REST para gerenciamento de competições esportivas.
 
 📧 aj0277578@gmail.com
 
-💼 LinkedIn
+💼 [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-anderson-5447012a6/)
