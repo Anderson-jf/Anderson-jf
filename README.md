@@ -1,35 +1,98 @@
-# Olá, eu sou o José Anderson 
+# José Anderson
 
-Desenvolvedor focado em Engenharia de Software e arquitetura Back-end. Atuo na construção de soluções digitais eficientes, escaláveis e robustas, aplicando o rigor metodológico da academia ao ambiente de desenvolvimento prático.
+Desenvolvedor Full Stack com foco em Back-end.
 
-Atualmente, finalizo minha graduação em Tecnologia em Sistemas para Internet no **IFRN**.
+Atualmente curso Tecnologia em Sistemas para Internet no IFRN e desenvolvo aplicações utilizando Node.js, TypeScript, AdonisJS, PostgreSQL, React Native e Firebase.
 
----
-
-###  Stack Tecnológica e Ferramentas
-
-- **Linguagens & Ecossistema:** TypeScript, Node.js, JavaScript (ES6+)
-- **Frameworks & Interfaces:** AdonisJS, Vue.js, React Native (Expo)
-- **Banco de Dados & Persistência:** PostgreSQL (ACID), Firebase Firestore (NoSQL)
-- **Ambiente de Trabalho & DevOps:** Linux (Debian/KDE), Docker, Git Flow
+Tenho experiência prática na construção de APIs REST, aplicações web e mobile, modelagem de bancos de dados relacionais, autenticação JWT, controle de acesso (RBAC) e arquiteturas Offline-First.
 
 ---
 
-###  Projetos de Alto Impacto em Destaque
+## Tecnologias
 
-* **Plataforma ReportaAi (GovTech):** Ecossistema inteligente para zeladoria urbana e vigilância em saúde. Atuei no desenvolvimento do aplicativo mobile (React Native) com arquitetura *Offline-First* e validação forense anti-fraude via metadados EXIF de imagem.
-* **SGCI (HealthTech SaaS):** Sistema de Gestão Clínica Integrada. Desenvolvido com AdonisJS e PostgreSQL, implementando controle de acesso complexo baseado em perfis (RBAC), lógica de agendamento inteligente e total conformidade com a LGPD e normas da ANVISA.
-* **Gestão de Arbitragem (SportsTech):** API RESTful estruturada para automação de competições esportivas, tratamento de integridade referencial e modelagem de banco de dados com relacionamentos *Many-to-Many*.
+### Back-end
+
+- Node.js
+- TypeScript
+- AdonisJS
+- PostgreSQL
+- SQL
+
+### Front-end
+
+- Vue.js
+- React Native (Expo)
+
+### Banco de Dados
+
+- PostgreSQL
+- Firebase Firestore
+
+### Ferramentas
+
+- Git
+- GitHub
+- Docker
+- Linux (Debian)
 
 ---
 
-###  Metodologias e Práticas de Trabalho
+## Projetos
 
-Opero sob metodologias ágeis (**Scrum/Kanban**), prezando pela organização contínua de Sprints e qualidade de entrega de software através de Pull Requests e revisões de código estruturadas.
+### ReportaAi
+
+Aplicativo mobile desenvolvido em React Native (Expo) e Firebase para registro de demandas urbanas.
+
+**Principais implementações**
+
+- Arquitetura Offline-First
+- Autenticação
+- Integração com Firestore
+- Captura de metadados EXIF
+- Sincronização automática
 
 ---
 
-###  Como me encontrar:
+### SGCI
 
-- **E-mail Profissional:** aj0277578@gmail.com
-- **LinkedIn:** [jose-anderson](https://www.linkedin.com/in/jos%C3%A9-anderson-5447012a6/)
+Sistema web para gestão clínica.
+
+**Principais implementações**
+
+- APIs REST
+- AdonisJS
+- PostgreSQL
+- Controle de acesso (RBAC)
+- Modelagem de banco de dados
+
+---
+
+### API de Gestão de Arbitragem
+
+API REST para gerenciamento de competições esportivas.
+
+**Principais implementações**
+
+- AdonisJS
+- PostgreSQL
+- Relacionamentos N:N
+- Migrations
+- Integridade referencial
+
+---
+
+## Atualmente estudando
+
+- Arquitetura de Software
+- Design Patterns
+- Testes Automatizados
+- Docker
+- Engenharia de Software
+
+---
+
+## Contato
+
+📧 aj0277578@gmail.com
+
+💼 LinkedIn
